@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pillow
+scikit-image
+opencv-contrib-python
+tqdm
+torch
+torchvision
+pandas
+Pyarrow
+tiktoken

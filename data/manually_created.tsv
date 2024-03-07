@@ -1,0 +1,4 @@
+index	answer	image_path	question	A	B	C	D	E	F
+0	F	data/manually_created/images/fused/easy.jpg	holder	A	B	C	D	E	F
+1	F	data/manually_created/images/fused/medium.jpg	holder	A	B	C	D	E	F
+2	F	data/manually_created/images/fused/hard.jpg	holder	A	B	C	D	E	F

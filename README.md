@@ -1,6 +1,6 @@
 # Visual Reasoning Benchmark
 
-This repo accompanies the research paper, How Far Are We from Intelligent Visual Deductive Reasoning?, ICLR AGI Workshop 2024.
+This repo accompanies the research paper, [How Far Are We from Intelligent Visual Deductive Reasoning](https://arxiv.org/abs/2403.04732), ICLR AGI Workshop 2024.
 
 
 
@@ -117,15 +117,15 @@ python src/main.py --data data/manually_created.tsv --model GPT4V --prompt mensa
 
 
 ## Citation
-Please consider citing our work if it is helpful to your research.
+Please consider citing [our work](https://arxiv.org/abs/2403.04732) if it is helpful to your research.
 ```
 @article{zhang2024far,
-  title={How Far Are We from Intelligent Visual Deductive Reasoning?},
-  author={Zhang, Yizhe and Bai, He and Zhang, Ruixiang and Gu, Jiatao and Zhai, Shuangfei and Susskind, Josh and Jaitly, Navdeep},
-  journal={},
-  year={2024},
-  note={Equal contribution by Yizhe Zhang, He Bai, and Ruixiang Zhang},
-  email={\{yizzhang,hbai7,ruixiangz,ndjaitly\}@apple.com}
+      title={How Far Are We from Intelligent Visual Deductive Reasoning?}, 
+      author={Yizhe Zhang and He Bai and Ruixiang Zhang and Jiatao Gu and Shuangfei Zhai and Josh Susskind and Navdeep Jaitly},
+      year={2024},
+      eprint={2403.04732},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 

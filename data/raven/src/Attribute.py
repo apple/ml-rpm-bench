@@ -187,6 +187,7 @@ class Color(Attribute):
         else:
             available = set(values) - set(previous_values) - set([self.value_level])
         new_idx = np.random.choice(list(available))
+        print(new_idx)
         return new_idx
 
     def get_value_level(self):

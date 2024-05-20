@@ -27,17 +27,18 @@ TYPE_MIN = 0
 TYPE_MAX = len(TYPE_VALUES) - 1
 
 # Size
-SIZE_VALUES = [0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+SIZE_VALUES = [0.2, 0.46, 0.72, 0.95] # Size needs to be atleast 0.2 to be visible, you also need atleast 4 values for the pipeline to work.You need to cap size to 0.95 so that borders don't clash.
 SIZE_MIN = 0
 SIZE_MAX = len(SIZE_VALUES) - 1
 
 # Color
-COLOR_VALUES = [255, 224, 196, 168, 140, 112, 84, 56, 28, 0]
+#COLOR_VALUES = [255, 170, 85 ,0]
+COLOR_VALUES = [255, 0]
 COLOR_MIN = 0
 COLOR_MAX = len(COLOR_VALUES) - 1
 
 # Angle: self-rotation
-ANGLE_VALUES = [-135, -90, -45, 0, 45, 90, 135, 180]
+ANGLE_VALUES = [0] # Hard to say rotations for circle, triangle etc.
 ANGLE_MIN = 0
 ANGLE_MAX = len(ANGLE_VALUES) - 1
 

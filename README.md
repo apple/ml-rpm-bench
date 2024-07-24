@@ -119,13 +119,11 @@ python src/main.py --data data/manually_created.tsv --model GPT4V --prompt mensa
 ## Citation
 Please consider citing [our work](https://arxiv.org/abs/2403.04732) if it is helpful to your research.
 ```
-@article{zhang2024far,
+@inproceedings{zhang2024far,
       title={How Far Are We from Intelligent Visual Deductive Reasoning?}, 
       author={Yizhe Zhang and He Bai and Ruixiang Zhang and Jiatao Gu and Shuangfei Zhai and Josh Susskind and Navdeep Jaitly},
       year={2024},
-      eprint={2403.04732},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+      booktitle={COLM}
 }
 ```
 

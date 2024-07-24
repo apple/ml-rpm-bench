@@ -1,6 +1,6 @@
 # Visual Reasoning Benchmark
 
-This repo accompanies the research paper, [How Far Are We from Intelligent Visual Deductive Reasoning](https://arxiv.org/abs/2403.04732), ICLR AGI Workshop 2024.
+This repo accompanies the research paper, [How Far Are We from Intelligent Visual Deductive Reasoning](https://arxiv.org/abs/2403.04732), CoLM 2024 main conference and ICLR 2024 AGI Workshop.
 
 
 
